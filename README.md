@@ -1,1 +1,1 @@
-# VR_Training_Yarm
+# VR_Project_2
